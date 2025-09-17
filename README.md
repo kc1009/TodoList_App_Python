@@ -32,7 +32,4 @@ python todo_app.py
 - `users.json` : Stores registered users (auto-generated)
 - `tasks.json` : Stores tasks for each user (auto-generated)
 
-## Notes
-- This is a lightweight, local desktop app suitable for quick testing or internship assignments.
-- For production apps, consider secure authentication, database storage, and enhanced UI.
-```
+
